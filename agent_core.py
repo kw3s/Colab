@@ -1,2 +1,3 @@
-# Agent-1st IDE Core
-print('Agent Core v1.0 Live')
+# Agent-1st IDE
+import os
+print('System Online')
